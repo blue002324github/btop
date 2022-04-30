@@ -290,6 +290,10 @@ Also needs a UTF8 locale and a font that covers:
    The makefile also needs GNU coreutils and `sed` (should already be installed on any modern distribution).
 
    For a `cmake` based build alternative see the [fork](https://github.com/jan-guenter/btop/tree/main) by @jan-guenter
+   
+simple guideline by Chinese
+
+https://www.cnblogs.com/scarecrow1992/articles/15693590.html   
 
 1. **Install dependencies (example for Ubuntu 21.04 Hirsute)**
 
